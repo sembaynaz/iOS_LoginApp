@@ -8,7 +8,7 @@
 import UIKit
 
 class SigninViewController: UIViewController {
-    //MARK: 
+    
     @IBOutlet weak var signinButton: UIButton!
     @IBOutlet weak var passwordTextField: UITextField!
     @IBOutlet weak var usernameTextField: UITextField!
@@ -18,6 +18,7 @@ class SigninViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         configureView()
+        hideKeyboardWhenTappedAround()
     }
     
     @IBAction func signinTouched(_ sender: Any) {
