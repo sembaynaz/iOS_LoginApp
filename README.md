@@ -1,8 +1,9 @@
 # iOS_LoginApp
 
 IPhone 14 pro
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-22 at 17 31 41](https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f31029fb-e491-408d-8918-3aeef42f465d)
-![Simulator Screenshot - iPhone 14 Pro - 2023-08-22 at 17 31 27](https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/d9c6fe6b-eed0-465e-a5c3-9173a4fb986c)
+<img src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f31029fb-e491-408d-8918-3aeef42f465d" width="500">
+<img src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/d9c6fe6b-eed0-465e-a5c3-9173a4fb986c" width="500">
+
 
 
 ### Project Description
