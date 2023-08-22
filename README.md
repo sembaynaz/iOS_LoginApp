@@ -32,5 +32,7 @@ For a better understanding of the code, you can design a registration screen and
 
 ### Author
 git: sembaynaz
+
 mail: nazerke.sembay11@gmail.com 
-telegran: @sembaynaz
+
+telegram: @sembaynaz
