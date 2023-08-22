@@ -2,13 +2,6 @@
 
 IPhone 14 pro
 
-<img src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f31029fb-e491-408d-8918-3aeef42f465d" width="500">
-<img src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/d9c6fe6b-eed0-465e-a5c3-9173a4fb986c" width="500">
-
-<img src="[https://cloud.githubusercontent.com/assets/screenshot.jpg](https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f31029fb-e491-408d-8918-3aeef42f465d)" width="400" height="790">
-<img src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/d9c6fe6b-eed0-465e-a5c3-9173a4fb986c" width="400" height="790">
-
-
 ### Project Description
 This project contains a login page for an application, which is also adaptive for SE, 14 pro screens with screen rotations.
 
@@ -19,10 +12,12 @@ No secondary libraries were used here, only **UIKit**. You can download the proj
 ### Usage
 I used **storyboard** for screen design (you can see this inside the main file). Then, I connected the elements to the code.
 
-<img width="518" alt="Снимок экрана 2023-08-22 в 17 12 27" src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f5e9a8cc-e4ce-4d62-b92a-02e5486bc78d">
+<img width="518" alt="Снимок экрана 2023-08-22 в 17 12 27" src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/f5e9a8cc-e4ce-4d62-b92a-02e5486bc78d" width = 200, height = 200>
+
 -> Here, we can see which elements are connected.
 
-<img width="518" alt="Снимок экрана 2023-08-22 в 17 13 48" src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/6ad78069-dd9a-4576-9068-de90effe92b8">
+<img width="518" alt="Снимок экрана 2023-08-22 в 17 13 48" src="https://github.com/sembaynaz/iOS_LoginApp/assets/96616194/6ad78069-dd9a-4576-9068-de90effe92b8" width = 200, height = 200>
+
 -> We can also see whether individual elements are connected.
 
 Now let's move on to the code:
