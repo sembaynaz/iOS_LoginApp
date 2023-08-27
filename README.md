@@ -1,7 +1,5 @@
 # iOS_LoginApp
 
-IPhone 14 pro
-
 ## Project Description
 This project contains a login page for an application, which is also adaptive for SE, 14 pro screens with screen rotations.
 
